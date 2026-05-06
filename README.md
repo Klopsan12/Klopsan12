@@ -45,7 +45,7 @@ Contribuição técnica realizada durante formação em Python, focada em versio
 
 <div align="center">
   <a href="https://github.com/Klopsan12" target="_blank">
-    <img src="https://github-readme-stats.herokuapp.com/api?username=Klopsan12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Klopsan12&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
   </a>
 </div>
 
