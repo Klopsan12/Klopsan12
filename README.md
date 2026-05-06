@@ -43,8 +43,11 @@ Contribuição técnica realizada durante formação em Python, focada em versio
 
 ### 📊 System Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klopsan12O&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Klopsan12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
 
 <br>
 
