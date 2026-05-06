@@ -44,9 +44,9 @@ Contribuição técnica realizada durante formação em Python, focada em versio
 ### 📊 System Analytics
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klopsan12&show_icons=true&theme=radical&hide_border=true)](https://github.com/Klopsan12)
-
+  <a href="https://github.com/Klopsan12" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Klopsan12&theme=radical&no-bg=true&no-frame=true" alt="Troféus" />
+  </a>
 </div>
 
 <br>
